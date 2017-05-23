@@ -11,7 +11,7 @@ public class Hiwi {
 //private JLabel fname;
 //private JTextField n;
 //private JTextField fn;
-
+//private hiwi;
     /**
      * @param args the command line arguments
      */
