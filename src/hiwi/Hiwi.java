@@ -7,10 +7,10 @@ package hiwi;
 
 import javax.swing.*;
 public class Hiwi {
-private JLabel name;
-private JLabel fname;
-private JTextField n;
-private JTextField fn;
+//private JLabel name;
+//private JLabel fname;
+//private JTextField n;
+//private JTextField fn;
 
     /**
      * @param args the command line arguments
