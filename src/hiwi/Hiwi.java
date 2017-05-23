@@ -5,11 +5,12 @@
  */
 package hiwi;
 
-/**
- *
- * @author Orit
- */
+import javax.swing.*;
 public class Hiwi {
+private JLabel name;
+private JLabel fname;
+private JTextField n;
+private JTextField fn;
 
     /**
      * @param args the command line arguments
