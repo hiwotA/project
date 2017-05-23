@@ -12,6 +12,7 @@ public class Hiwi {
 //private JTextField n;
 //private JTextField fn;
 //private hiwi;
+    //frehiwot;
     /**
      * @param args the command line arguments
      */
